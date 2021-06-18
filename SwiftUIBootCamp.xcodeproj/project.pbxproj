@@ -7,15 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F40834C526369230006B4B9C /* PaddingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40834C426369230006B4B9C /* PaddingBootCamp.swift */; };
+		F40834C9263697B0006B4B9C /* SpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40834C8263697B0006B4B9C /* SpacerBootCamp.swift */; };
 		F40DCAED261D89E600A03298 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40DCAEC261D89E600A03298 /* AppDelegate.swift */; };
 		F40DCAEF261D89E600A03298 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40DCAEE261D89E600A03298 /* SceneDelegate.swift */; };
 		F40DCAF1261D89E600A03298 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40DCAF0261D89E600A03298 /* ContentView.swift */; };
 		F40DCAF3261D89EA00A03298 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F40DCAF2261D89EA00A03298 /* Assets.xcassets */; };
 		F40DCAF6261D89EA00A03298 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F40DCAF5261D89EA00A03298 /* Preview Assets.xcassets */; };
 		F40DCAF9261D89EA00A03298 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F40DCAF7261D89EA00A03298 /* LaunchScreen.storyboard */; };
+		F40DCB02261D8A4B00A03298 /* Teks.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40DCB01261D8A4B00A03298 /* Teks.swift */; };
+		F40EEEF226675901008D2B88 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40EEEF126675901008D2B88 /* StateBootcamp.swift */; };
+		F4337C68265F522A0060DDD9 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4337C67265F522A0060DDD9 /* ForEachBootcamp.swift */; };
+		F4337C6D266097EB0060DDD9 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4337C6C266097EB0060DDD9 /* GridBootcamp.swift */; };
+		F4337C712664B4CC0060DDD9 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4337C702664B4CC0060DDD9 /* SafeAreaBootcamp.swift */; };
+		F4337C74266606F70060DDD9 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4337C73266606F70060DDD9 /* ButtonBootcamp.swift */; };
+		F4A29DED2637E12D005D84C8 /* initializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4A29DEC2637E12D005D84C8 /* initializerBootcamp.swift */; };
+		F4D23180261EDB5300A4CB7A /* Bentuk.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4D2317F261EDB5300A4CB7A /* Bentuk.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F40834C426369230006B4B9C /* PaddingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootCamp.swift; sourceTree = "<group>"; };
+		F40834C8263697B0006B4B9C /* SpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootCamp.swift; sourceTree = "<group>"; };
 		F40DCAE9261D89E600A03298 /* SwiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F40DCAEC261D89E600A03298 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F40DCAEE261D89E600A03298 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +36,14 @@
 		F40DCAF5261D89EA00A03298 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F40DCAF8261D89EA00A03298 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F40DCAFA261D89EA00A03298 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F40DCB01261D8A4B00A03298 /* Teks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teks.swift; sourceTree = "<group>"; };
+		F40EEEF126675901008D2B88 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		F4337C67265F522A0060DDD9 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		F4337C6C266097EB0060DDD9 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		F4337C702664B4CC0060DDD9 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
+		F4337C73266606F70060DDD9 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
+		F4A29DEC2637E12D005D84C8 /* initializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initializerBootcamp.swift; sourceTree = "<group>"; };
+		F4D2317F261EDB5300A4CB7A /* Bentuk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bentuk.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +76,19 @@
 		F40DCAEB261D89E600A03298 /* SwiftUIBootCamp */ = {
 			isa = PBXGroup;
 			children = (
+				F40EEEF126675901008D2B88 /* StateBootcamp.swift */,
+				F4337C73266606F70060DDD9 /* ButtonBootcamp.swift */,
+				F4337C702664B4CC0060DDD9 /* SafeAreaBootcamp.swift */,
+				F4337C6C266097EB0060DDD9 /* GridBootcamp.swift */,
+				F4337C67265F522A0060DDD9 /* ForEachBootcamp.swift */,
+				F4A29DEC2637E12D005D84C8 /* initializerBootcamp.swift */,
+				F40834C426369230006B4B9C /* PaddingBootCamp.swift */,
+				F40834C8263697B0006B4B9C /* SpacerBootCamp.swift */,
 				F40DCAEC261D89E600A03298 /* AppDelegate.swift */,
 				F40DCAEE261D89E600A03298 /* SceneDelegate.swift */,
 				F40DCAF0261D89E600A03298 /* ContentView.swift */,
+				F40DCB01261D8A4B00A03298 /* Teks.swift */,
+				F4D2317F261EDB5300A4CB7A /* Bentuk.swift */,
 				F40DCAF2261D89EA00A03298 /* Assets.xcassets */,
 				F40DCAF7261D89EA00A03298 /* LaunchScreen.storyboard */,
 				F40DCAFA261D89EA00A03298 /* Info.plist */,
@@ -145,9 +175,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F4337C6D266097EB0060DDD9 /* GridBootcamp.swift in Sources */,
+				F40834C526369230006B4B9C /* PaddingBootCamp.swift in Sources */,
+				F40EEEF226675901008D2B88 /* StateBootcamp.swift in Sources */,
+				F40834C9263697B0006B4B9C /* SpacerBootCamp.swift in Sources */,
+				F40DCB02261D8A4B00A03298 /* Teks.swift in Sources */,
+				F4337C74266606F70060DDD9 /* ButtonBootcamp.swift in Sources */,
+				F4337C712664B4CC0060DDD9 /* SafeAreaBootcamp.swift in Sources */,
 				F40DCAED261D89E600A03298 /* AppDelegate.swift in Sources */,
+				F4D23180261EDB5300A4CB7A /* Bentuk.swift in Sources */,
+				F4A29DED2637E12D005D84C8 /* initializerBootcamp.swift in Sources */,
 				F40DCAEF261D89E600A03298 /* SceneDelegate.swift in Sources */,
 				F40DCAF1261D89E600A03298 /* ContentView.swift in Sources */,
+				F4337C68265F522A0060DDD9 /* ForEachBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
